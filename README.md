@@ -66,8 +66,8 @@
 
 <h2 align="left">GitHub Stats</h2>
 <div style="display: flex; gap: 1rem; justify-content: space-around; align-items: center;">
-  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wodenwang820118&show_icons=true&locale=en" width="310" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" width="300" />
+  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wodenwang820118&show_icons=true&locale=en" width="400" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" width="390" />
   </p>
 </div>
 <h2 align="left">Wakatime Stats</h2>
