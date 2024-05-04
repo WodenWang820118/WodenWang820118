@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<h2 align="left">Teck Stack</h2>
+<h2 align="left">Tech Stack</h2>
 <div align="left">
 <table style="border:0px solid white; width:100%;">
   <tr>
