@@ -1,7 +1,6 @@
 <h1 align="left">Guan Xin Wang</h1>
-<hr style="height: 1px;">
 
-<div style="display: flex; justify-content: baseline; gap: 1rem; align-items: center;">
+<div align="left" style="display: flex; justify-content: baseline; gap: 1rem; align-items: center;">
   <p>
     <a href="https://www.linkedin.com/in/guan-xin-wang/" alt="https://www.linkedin.com/in/guan-xin-wang/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
   </p>
@@ -14,8 +13,8 @@
 </div>
 
 <h2 align="left">Teck Stack</h2>
-<div class="tools" align="left" style="display: flex; gap: 10px; align-items: center; justify-content: space-around; flex-wrap: wrap;">
-  <div class="tool__item">
+<div class="tools" align="center" style="display: flex; gap: 10px; align-items: center; justify-content: space-around; flex-wrap: wrap;">
+  <div align="left" class="tool__item">
     <table style="width: 100%; table-layout: fixed;">
       <thead>
         <tr>
@@ -51,7 +50,7 @@
         </tr>
     </table>
   </div>
-  <div class="tool_item">
+  <div align="right" class="tool_item">
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" alt="wodenwang820118" /></p>
   </div>
 </div>
@@ -65,9 +64,9 @@
 
 <h2 align="left">GitHub Stats</h2>
 <div style="display: flex; gap: 1rem; justify-content: space-around; align-items: center;">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wodenwang820118&show_icons=true&locale=en" alt="wodenwang820118" /></p>
+  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wodenwang820118&show_icons=true&locale=en" alt="wodenwang820118" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" /></p>
+  <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" /></p>
 
 </div>
 <h2 align="left">Wakatime Stats</h2>
