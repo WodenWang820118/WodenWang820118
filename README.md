@@ -10,39 +10,35 @@
 
 <h2 align="left">Teck Stack</h2>
 <div align="left">
-  <table>
+<table style="border:0px solid white; width:100%;">
   <tr>
     <td>
       <table>
         <thead>
           <tr>
-            <th>Frontend</th>
-            <th>Backend</th>
-            <th>Others</th>
+            <th width="150">Frontend</th>
+            <th width="150">Backend</th>
+            <th width="150">Others</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
-            </td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" /></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></td>
           </tr>
           <tr>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
           </tr>
           <tr>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
-            <td></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
+            <td align="center"></td>
           </tr>
           <tr>
-            <td>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-            </td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" /></td>
             <td></td>
             <td></td>
           </tr>
@@ -67,7 +63,7 @@
 <h2 align="left">GitHub Stats</h2>
 <div style="display: flex; gap: 1rem; justify-content: space-around; align-items: center;">
   <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wodenwang820118&show_icons=true&locale=en" width="400" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" width="410" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" width="420" />
   </p>
 </div>
 <h2 align="left">Wakatime Stats</h2>
