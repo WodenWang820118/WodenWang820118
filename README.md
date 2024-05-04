@@ -11,8 +11,8 @@
 <h2 align="left">Tech Stack</h2>
 <div align="left">
 <table style="border:0px solid white; width:100%;">
-  <tr>
-    <td>
+  <tr style="border: 0px;">
+    <td style="border: 0px;">
       <table>
         <thead>
           <tr>
@@ -45,7 +45,7 @@
         </tbody>
       </table>
     </td>
-    <td>
+    <td style="border: 0px;">
       <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" alt="wodenwang820118" /></div>
     </td>
   </tr>
