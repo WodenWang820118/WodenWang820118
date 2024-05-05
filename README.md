@@ -10,10 +10,10 @@
 
 <h2 align="left">Tech Stack</h2>
 <div align="left">
-  <table style="border:0px solid white; width:100%;">
+  <table style="border:0px solid white; width:100%; table-layout: fixed;">
     <thead>
-      <th width="450">Tech</th>
-      <th width="900">Languages</th>
+      <th>Tools</th>
+      <th>Languages</th>
     </thead>
     <tbody>
       <tr style="border: 0px;">
@@ -51,7 +51,7 @@
           </table>
         </td>
         <td style="border: 0px;">
-          <p align="left">
+          <p align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" width="800" />
           </p>
         </td>
