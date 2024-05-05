@@ -13,7 +13,7 @@
   <table style="border:0px solid white; width:100%;">
     <thead>
       <th width="450">Tech</th>
-      <th width="450">Languages</th>
+      <th width="900">Languages</th>
     </thead>
     <tbody>
       <tr style="border: 0px;">
@@ -50,10 +50,9 @@
             </tbody>
           </table>
         </td>
-        <td style="border: 0px; width: 200px;">
+        <td style="border: 0px;">
           <p align="left">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" width="400" />
-            <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" width="420" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" width="800" />
           </p>
         </td>
       </tr>
