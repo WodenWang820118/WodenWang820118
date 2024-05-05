@@ -51,7 +51,7 @@
       </td>
       <td style="width: 50%">
         <p align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" width="800" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact&card_width=400" />
         </p>
       </td>
     </tr>
