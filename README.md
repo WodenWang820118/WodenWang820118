@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="width: 50%">
+      <td style="width: 30%">
         <table>
           <thead>
             <tr>
@@ -49,7 +49,7 @@
           </tbody>
         </table>
       </td>
-      <td style="width: 50%">
+      <td style="width: 70%">
         <p align="center">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact&card_width=400" />
         </p>
