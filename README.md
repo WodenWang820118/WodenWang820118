@@ -10,20 +10,20 @@
 
 <h2 align="left">Tech Stack</h2>
 <div align="left">
-  <table style="border:0px solid white; width:100%;">
+  <table style="width:100%;">
     <thead>
       <th>Tools</th>
       <th width="450">Languages</th>
     </thead>
     <tbody>
-      <tr style="border: 0px;">
-        <td style="border: 0px; width: 50%">
+      <tr>
+        <td style="width: 50%">
           <table>
             <thead>
               <tr>
-                <th width="150">Frontend</th>
-                <th width="150">Backend</th>
-                <th width="150">Others</th>
+                <th width="140">Frontend</th>
+                <th width="140">Backend</th>
+                <th width="140">Others</th>
               </tr>
             </thead>
             <tbody>
@@ -50,7 +50,7 @@
             </tbody>
           </table>
         </td>
-        <td style="border: 0px; width: 50%">
+        <td style="width: 50%">
           <p align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" width="800" />
           </p>
