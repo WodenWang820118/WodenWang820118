@@ -13,7 +13,7 @@
   <table style="border:0px solid white; width:100%; table-layout: fixed;">
     <thead>
       <th>Tools</th>
-      <th>Languages</th>
+      <th width="450">Languages</th>
     </thead>
     <tbody>
       <tr style="border: 0px;">
