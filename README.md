@@ -46,7 +46,7 @@
       </table>
     </td>
     <td style="border: 0px;">
-      <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" alt="wodenwang820118" /></div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" alt="wodenwang820118" />
     </td>
   </tr>
 </table>
