@@ -45,11 +45,8 @@
           </tbody>
         </table>
       </td>
-      <td style="border: 0px;">
-        <p align="left"></p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" alt="wodenwang820118" width="400" height="400" /></p>
-        <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wodenwang820118&show_icons=true&locale=en" width="400" />
-          <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" width="420" />
-        </p>
+      <td style="border: 0px; width: 200px;">
+        <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" width="400" /></p>
       </td>
     </tr>
   </table>
