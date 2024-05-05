@@ -11,47 +11,53 @@
 <h2 align="left">Tech Stack</h2>
 <div align="left">
   <table style="border:0px solid white; width:100%;">
-    <tr style="border: 0px;">
-      <td style="border: 0px;">
-        <table>
-          <thead>
-            <tr>
-              <th width="150">Frontend</th>
-              <th width="150">Backend</th>
-              <th width="150">Others</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" /></td>
-              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></td>
-              <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></td>
-            </tr>
-            <tr>
-              <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></td>
-              <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-              <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-            </tr>
-            <tr>
-              <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
-              <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
-              <td align="center"></td>
-            </tr>
-            <tr>
-              <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" /></td>
-              <td></td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="border: 0px; width: 200px;">
-        <p align="left">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" width="400" />
-          <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" width="420" />
-        </p>
-      </td>
-    </tr>
+    <thead>
+      <th width="450">Tech</th>
+      <th width="450">Languages</th>
+    </thead>
+    <tbody>
+      <tr style="border: 0px;">
+        <td style="border: 0px;">
+          <table>
+            <thead>
+              <tr>
+                <th width="150">Frontend</th>
+                <th width="150">Backend</th>
+                <th width="150">Others</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" /></td>
+                <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></td>
+              </tr>
+              <tr>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
+              </tr>
+              <tr>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
+                <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
+                <td align="center"></td>
+              </tr>
+              <tr>
+                <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" /></td>
+                <td></td>
+                <td></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        <td style="border: 0px; width: 200px;">
+          <p align="left">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wodenwang820118&show_icons=true&locale=en&layout=compact" width="400" />
+            <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wodenwang820118&" alt="wodenwang820118" width="420" />
+          </p>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
