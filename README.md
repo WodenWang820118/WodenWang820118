@@ -5,6 +5,7 @@
     <a href="https://www.linkedin.com/in/guan-xin-wang/" alt="https://www.linkedin.com/in/guan-xin-wang/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
     <a href="mailto:guanxinwang0118@gmail.com"><img src="https://img.shields.io/badge/Email-f48024?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://stackoverflow.com/users/13126518/woden"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+    <img src="https://komarev.com/ghpvc/?username=WodenWang820118&color=brightgreen&style=flat" alt="Profile views" />
   </p>
 </div>
 
